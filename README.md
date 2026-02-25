@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **HTML,CSS,JAVA**
+- 💬 Ask me about **HTML,CSS,JAVA*,JAVA*
 
-- 📫 How to reach me **arpitakar933@gmail.com**
+- 📫 How to reach me **arpitakar842@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
